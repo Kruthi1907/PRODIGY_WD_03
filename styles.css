@@ -45,11 +45,11 @@ h1 {
     padding: 10px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #fff; /* Button background color */
-    color: #000; /* Button text color */
+    background-color: #fff;
+    color: #000;
 }
 
 #resetBtn:hover {
-    background-color: rgb(155, 197, 212); /* Button background color on hover */
-    color: #fff; /* Button text color on hover */
+    background-color: rgb(155, 197, 212);
+    color: #fff;
 }

@@ -4,7 +4,6 @@ let gameActive = true;
 
 const cells = document.getElementById('board');
 
-// Create cells dynamically
 for (let i = 0; i < 9; i++) {
     const cell = document.createElement('div');
     cell.classList.add('cell');
